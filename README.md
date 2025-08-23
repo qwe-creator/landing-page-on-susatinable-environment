@@ -109,16 +109,11 @@ You don’t need a build step. Any static server or even opening the file direct
 5. Open a Pull Request
 
 ---
-
-## 📄 License
-
-No license file is present yet. If you intend others to use or adapt this, consider adding a license (e.g., MIT).
-
 ---
 
 ## 👤 Author
 
-- **@qwe-creator**
+- **@niha**
 
 If you use this, a ⭐ on the repo is appreciated!
 
